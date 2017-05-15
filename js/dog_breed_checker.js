@@ -45,22 +45,22 @@ function checkIt() {
   var message;
 
   if (max == corgi) {
-    message = "corgi";
+    message = "Smart and alert, affectionate but not pushy, bold but kindly.";
   }
   else if (max == border) {
-    message = "border";
+    message = "Remarkably smart workaholics; not averse to a good cuddle";
   }
   else if (max == aussie) {
-    message = "aussie ";
+    message = "Smart, work-oriented, exuberant—did we mention smart? ";
   }
   else if (max == golden) {
-    message = "golden ";
+    message = "Intelligent, friendly, and devoted. ";
   }
   else if (max == poodle) {
-    message = "poodle";
+    message = "Proud, active and very smart..";
   }
   else if (max == bernie) {
-    message = "bernie";
+    message = "Good-natured, calm, strong";
   }
 
 // custom result title
